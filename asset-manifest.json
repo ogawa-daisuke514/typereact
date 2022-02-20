@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/typereact/static/css/main.e6c13ad2.css",
+    "main.js": "/typereact/static/js/main.85aa061e.js",
+    "static/js/787.9cd30e99.chunk.js": "/typereact/static/js/787.9cd30e99.chunk.js",
+    "index.html": "/typereact/index.html",
+    "main.e6c13ad2.css.map": "/typereact/static/css/main.e6c13ad2.css.map",
+    "main.85aa061e.js.map": "/typereact/static/js/main.85aa061e.js.map",
+    "787.9cd30e99.chunk.js.map": "/typereact/static/js/787.9cd30e99.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.85aa061e.js"
+  ]
+}
